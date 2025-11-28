@@ -12,3 +12,6 @@ This repository contains a simple notebook that resizes the original **MNIST 28�
 ## Output
 - Resized 16x16 MNIST images
 - Sample images displayed inside the notebook
+
+## MNIST 28×28 vs 16×16 (LANCZOS)
+<img width="880" height="523" alt="image" src="https://github.com/user-attachments/assets/fce137eb-d993-438d-8df1-cdcfe9979113" />
