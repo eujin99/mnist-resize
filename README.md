@@ -12,7 +12,6 @@ This repository contains a simple notebook that resizes the original **MNIST 28Ã
 ## Output
 - Resized 16x16 MNIST images
 - Generated dataset files:
-- 
   - `mnist_16_train_lanczos.pt`
   - `mnist_16_test_lanczos.pt`
 
