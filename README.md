@@ -8,3 +8,12 @@ This repository contains a simple notebook that resizes the original **MNIST 28Ã
 - Load MNIST dataset
 - Resize all images from 28x28 â†’ 16x16
 - Uses Pillow `Image.LANCZOS` for high-quality downsampling
+
+## How to Run
+```bash
+jupyter notebook mnist_resize.ipynb
+```
+
+## Output
+- Resized 16x16 MNIST images
+- Sample images displayed inside the notebook
